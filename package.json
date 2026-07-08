@@ -1,0 +1,22 @@
+{
+  "name": "acsound-portfolio",
+  "version": "1.0.0",
+  "description": "Modern React portfolio for AC Sound Design - Andrew Clelland",
+  "private": true,
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "@vitejs/plugin-react": "^4.3.4"
+  },
+  "type": "module"
+}

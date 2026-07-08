@@ -1,0 +1,67 @@
+Event	ID	Name			Wwise Object Path	Notes
+	423060956	Play_Static			\Default Work Unit\Play_Static	
+	642827818	Stop_Static			\Default Work Unit\Stop_Static	
+	1281227642	Stop_The_Quick_Brown_Fox			\Default Work Unit\Stop_The_Quick_Brown_Fox	
+	1324234680	Play_The_Quick_Brown_Fox			\Default Work Unit\Play_The_Quick_Brown_Fox	
+	1731374405	Play_MEQB			\Default Work Unit\Play_MEQB	
+	2452511953	Play_VOL			\Default Work Unit\Play_VOL	
+	2907589846	Play_HEQB			\Default Work Unit\Play_HEQB	
+	3092915550	Play_DIS			\Default Work Unit\Play_DIS	
+	3103472528	Play_Intro			\Default Work Unit\Play_Intro	
+	3215738826	Play_GRAPH			\Default Work Unit\Play_GRAPH	
+	3357254901	Play_TIME			\Default Work Unit\Play_TIME	
+	3754448565	Play_ThanksForEverything			\Default Work Unit\Play_ThanksForEverything	
+	3764484994	Play_LEQB			\Default Work Unit\Play_LEQB	
+	4038531127	Stop_ThanksForEverything			\Default Work Unit\Stop_ThanksForEverything	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	251909123	PitchShift			\Default Work Unit\PitchShift	
+	640949982	Speed			\Default Work Unit\Speed	
+	2415836739	Volume			\Default Work Unit\Volume	
+	2557018734	MEQBP			\MEQ\MEQBP	
+	2565148487	LEQBP			\LEQ\LEQBP	
+	2713152104	HEQWD			\HEQ\HEQWD	
+	2718500662	Distortion_On_Off			\Distortion\Distortion_On_Off	
+	2749702380	LEQWD			\LEQ\LEQWD	
+	2909348681	MEQWD			\MEQ\MEQWD	
+	2931261171	HEQBP			\HEQ\HEQBP	
+	3538560642	Voice_Volume			\Default Work Unit\Voice_Volume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	290175248	Breathy			\Default Work Unit\Breathy	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	35109782	Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	190766701	Meter (Custom)	Wwise Meter			
+	231358461	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	515419286	Parametric EQ (Custom)	Wwise Parametric EQ			High EQ 
+	652053968	Time Stretch (Custom)	Wwise Time Stretch			
+	730006073	Gain (Custom)	Wwise Gain			
+	1025213112	Parametric EQ (Custom)	Wwise Parametric EQ			Mid EQ
+	1057375124	Parametric EQ (Custom)	Wwise Parametric EQ			Low EQ
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10546891	GRAPH	I:\hons\wwise\emotion_changer\.cache\03\{03843D7F-22D2-4DD0-188F-2CDB1D4A65D4}.wem		\Actor-Mixer Hierarchy\Tutorials\GRAPH		3486608
+	89534104	word_1_0_brian	I:\hons\wwise\emotion_changer\.cache\A0\{A0FAA6A5-3210-23AF-9F8D-832DEC5116DF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_1_0_brian		109640
+	115700930	word_2_0_jumps	I:\hons\wwise\emotion_changer\.cache\AA\{AA829D45-BD52-A682-E6D6-1B35A321EB53}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_2_0_jumps		87588
+	212000955	MEQB	I:\hons\wwise\emotion_changer\.cache\71\{71D34CD7-7707-B3EC-912B-0EBE468328EB}.wem		\Actor-Mixer Hierarchy\Tutorials\MEQB		3474804
+	274871525	Intro	I:\hons\wwise\emotion_changer\.cache\20\{20884C6D-971F-F9DF-083A-89B2110920EF}.wem		\Actor-Mixer Hierarchy\Tutorials\Intro		5588084
+	454784612	word_3_2_dog	I:\hons\wwise\emotion_changer\.cache\EC\{ECD1CA4C-2645-B01C-94EE-ABC1C8296ED9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_3_2_dog		57780
+	476071657	word_0_1_for	I:\hons\wwise\emotion_changer\.cache\C5\{C5762235-19B9-AF62-F96D-C56A55A7AA30}.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThanksForEverything\word_0_1_for		81240
+	487404308	word_0_1_quack	I:\hons\wwise\emotion_changer\.cache\99\{991B3B57-34A3-031D-F671-8AEAFC5D0204}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_0_1_quack		61132
+	499251589	word_0_0_the	I:\hons\wwise\emotion_changer\.cache\FB\{FB7096FC-106B-C6AA-E767-4AE01F831B24}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_0_0_the		61128
+	532503139	word_3_0_the	I:\hons\wwise\emotion_changer\.cache\BC\{BCF65044-7B82-19BF-95D0-4C02CD9A8E39}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_3_0_the		57776
+	539825718	word_0_2_phoneme_6_NG	I:\hons\wwise\emotion_changer\.cache\ED\{ED973169-2A8D-70C9-D243-EAA39B89A8F9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThanksForEverything\word_0_2_phoneme_6_NG		11560
+	561295622	VOL	I:\hons\wwise\emotion_changer\.cache\71\{711DEFAC-AB6D-1427-9F73-06B17D314BB0}.wem		\Actor-Mixer Hierarchy\Tutorials\VOL		1697992
+	601450803	HEQB	I:\hons\wwise\emotion_changer\.cache\16\{16A43AD2-C198-99BF-83C2-BD81843BAC1D}.wem		\Actor-Mixer Hierarchy\Tutorials\HEQB		3604668
+	649755718	word_1_1_folks	I:\hons\wwise\emotion_changer\.cache\0F\{0F4BD525-0A0E-C168-9B86-F87C2B2F4E5D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_1_1_folks		109640
+	660917345	DIS	I:\hons\wwise\emotion_changer\.cache\50\{50286C08-2EA4-6CFC-0E62-3398106B15E5}.wem		\Actor-Mixer Hierarchy\Tutorials\DIS		2435872
+	786600801	Static	I:\hons\wwise\emotion_changer\.cache\BD\{BDD56771-62C7-3A82-395E-D55514E4BEC3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Static		11555760
+	807670389	word_0_0_thanks	I:\hons\wwise\emotion_changer\.cache\82\{82796D0F-3663-995B-1448-73D7DA70474F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThanksForEverything\word_0_0_thanks		81240
+	933766509	TIME	I:\hons\wwise\emotion_changer\.cache\D4\{D4F64ACF-5A48-1167-E0C9-DCA812AD42DC}.wem		\Actor-Mixer Hierarchy\Tutorials\TIME		1697992
+	955681572	word_0_2_everything	I:\hons\wwise\emotion_changer\.cache\E7\{E750F4F0-A992-7841-E980-A725D06F3DFA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThanksForEverything\word_0_2_everything		81240
+	978094147	LEQB	I:\hons\wwise\emotion_changer\.cache\2B\{2B30BEDD-AAB9-BC04-08BC-E1A3703DC739}.wem		\Actor-Mixer Hierarchy\Tutorials\LEQB		3398064
+	1015622548	word_2_1_over	I:\hons\wwise\emotion_changer\.cache\CB\{CB75F8EB-EDA7-A62F-41CE-9163FFFCB5D3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_2_1_over		87592
+	1035650739	word_3_1_lazy	I:\hons\wwise\emotion_changer\.cache\26\{2654C555-5210-D094-31A1-BB8C4858EF39}.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Quick Brown Fox\word_3_1_lazy		57780
+
